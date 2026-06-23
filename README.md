@@ -22,21 +22,6 @@ This repository contains my solutions to LeetCode problems solved as part of my 
   * Sliding Window
   * Two Pointers
 
-## Repository Structure
-
-```text
-LeetCode/
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Graphs/
-├── DynamicProgramming/
-└── Miscellaneous/
-```
-
 ## Why This Repository?
 
 * Track coding progress consistently.
