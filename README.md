@@ -44,6 +44,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -74,6 +76,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
