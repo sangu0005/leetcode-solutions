@@ -11,5 +11,4 @@ class Solution:
             else:
                  stk.append(int(ch))
 
-            print(stk)
         return sum(stk)
