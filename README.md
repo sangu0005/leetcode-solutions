@@ -45,6 +45,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | ------- |
 | [0001-two-sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0495-teemo-attacking](https://github.com/sangu0005/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -80,6 +81,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
