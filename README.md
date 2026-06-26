@@ -48,6 +48,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sangu0005/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0137-single-number-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0495-teemo-attacking](https://github.com/sangu0005/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -94,6 +95,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -111,6 +113,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -134,4 +137,12 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0137-single-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
