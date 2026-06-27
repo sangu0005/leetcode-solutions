@@ -55,6 +55,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [1512-number-of-good-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sangu0005/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1748-sum-of-unique-elements](https://github.com/sangu0005/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sangu0005/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
