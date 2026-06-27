@@ -156,4 +156,9 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sangu0005/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
