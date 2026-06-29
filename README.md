@@ -115,15 +115,18 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1528-shuffle-string](https://github.com/sangu0005/leetcode-solutions/tree/master/1528-shuffle-string) |
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
@@ -173,4 +176,8 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
