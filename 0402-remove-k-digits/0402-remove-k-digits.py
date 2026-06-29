@@ -11,5 +11,6 @@ class Solution:
             stk.pop()
             k -= 1
 
-        res = "".join(stk).lstrip("0")
-        return res if res else "0"
+        # res = "".join(stk).lstrip("0")
+        # return res if res else "0"
+        return "".join(stk).lstrip("0") or "0"
