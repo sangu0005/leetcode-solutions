@@ -7,6 +7,7 @@ class Solution:
                 stk.pop()
                 k -= 1
             stk.append(n)
+
         while k > 0:
             stk.pop()
             k -= 1
