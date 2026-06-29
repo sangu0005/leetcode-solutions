@@ -49,6 +49,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0035-search-insert-position](https://github.com/sangu0005/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/sangu0005/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/sangu0005/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/sangu0005/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sangu0005/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1512-number-of-good-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -106,6 +108,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | ------- |
 | [0015-3sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sangu0005/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sangu0005/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -124,6 +127,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sangu0005/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -137,6 +141,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sangu0005/leetcode-solutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sangu0005/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
