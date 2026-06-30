@@ -7,6 +7,8 @@ class Solution:
             total += nums[r]
             while total >= target:
                 res = min(res, r - l +1)
+                if res == 1:
+                    return res
                 total -= nums[l]
                 l +=1
         
