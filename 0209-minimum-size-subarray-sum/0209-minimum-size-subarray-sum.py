@@ -10,5 +10,5 @@ class Solution:
                 total -= nums[l]
                 l +=1
         
-        return 0 if res == float("inf") else res
+        return res if res != float("inf") else 0
         
