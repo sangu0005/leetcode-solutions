@@ -75,6 +75,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0219-contains-duplicate-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sangu0005/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sangu0005/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sangu0005/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -130,6 +131,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0005-longest-palindromic-substring](https://github.com/sangu0005/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sangu0005/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/sangu0005/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sangu0005/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sangu0005/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -162,6 +164,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sangu0005/leetcode-solutions/tree/master/0169-majority-element) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sangu0005/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sangu0005/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sangu0005/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
