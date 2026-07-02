@@ -83,6 +83,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/sangu0005/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0258-add-digits) |
