@@ -11,7 +11,7 @@ class Solution:
 
         while l <= r:
             mid = (l + r) // 2
-            coins = mid * (mid + 1) // 2 # coins need for mid row
+            coins = mid * (mid + 1) // 2 # coins needed for mid row
             
             if coins == n:
                 return mid
