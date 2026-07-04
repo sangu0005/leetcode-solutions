@@ -3,7 +3,9 @@ class Solution:
         stk = []
 
         for ch in s:
-            if stk and ((stk[-1] == "A" and ch == "B") or (stk[-1] == "C" and ch == "D")):
+            if stk and (stk[-1] == "A" and ch == "B"):
+                stk.pop()
+            elif stk and (stk[-1] == "C" and ch == "D"):
                 stk.pop()
             else:
                 stk.append(ch)
