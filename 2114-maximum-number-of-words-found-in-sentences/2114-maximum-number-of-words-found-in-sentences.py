@@ -9,7 +9,7 @@ class Solution:
 
         maxCount = 0
         for s in sentences:
-            wordCount = s.count(" ") + 1
+            wordCount = s.count(' ') + 1
             maxCount = max(maxCount, wordCount)
 
         return maxCount
