@@ -3,7 +3,7 @@ class Solution:
         stk = []
 
         for ch in s:
-            if stk and ch.isdigit():
+            if ch.isdigit():
                 stk.pop()
             else:
                 stk.append(ch)
