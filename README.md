@@ -97,6 +97,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0258-add-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/sangu0005/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sangu0005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sangu0005/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Number Theory
@@ -115,6 +116,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0189-rotate-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sangu0005/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/sangu0005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0005-longest-palindromic-substring](https://github.com/sangu0005/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0844-backspace-string-compare](https://github.com/sangu0005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sangu0005/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/sangu0005/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sangu0005/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -155,6 +158,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | ------- |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sangu0005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sangu0005/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Divide and Conquer
