@@ -22,4 +22,4 @@ class Solution:
                 popped.pop()
                 stack.pop()
 
-        return not stack
+        return not popped
