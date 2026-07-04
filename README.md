@@ -97,6 +97,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0258-add-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/sangu0005/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0682-baseball-game) |
+| [3174-clear-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sangu0005/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sangu0005/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sangu0005/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3174-clear-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -151,6 +153,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | ------- |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0682-baseball-game) |
+| [3174-clear-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
