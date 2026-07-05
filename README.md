@@ -53,6 +53,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/sangu0005/leetcode-solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -137,6 +138,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0015-3sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sangu0005/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sangu0005/leetcode-solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sangu0005/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -144,6 +146,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sangu0005/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0179-largest-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/sangu0005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -157,6 +160,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
 ## Stack
