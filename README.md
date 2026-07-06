@@ -78,6 +78,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | ------- |
 | [0001-two-sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sangu0005/leetcode-solutions/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -147,6 +148,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sangu0005/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/sangu0005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -206,6 +208,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -237,8 +240,17 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sangu0005/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sangu0005/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
