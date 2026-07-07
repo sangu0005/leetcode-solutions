@@ -96,6 +96,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0258-add-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/sangu0005/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [1512-number-of-good-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sangu0005/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
 | ------- |
