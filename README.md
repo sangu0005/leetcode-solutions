@@ -67,6 +67,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0506-relative-ranks](https://github.com/sangu0005/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/sangu0005/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1512-number-of-good-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sangu0005/leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -130,6 +131,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0283-move-zeroes](https://github.com/sangu0005/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/sangu0005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/sangu0005/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/sangu0005/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0905-sort-array-by-parity](https://github.com/sangu0005/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sangu0005/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
 |  |
