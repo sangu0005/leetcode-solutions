@@ -10,12 +10,11 @@ class Solution:
 
         res = []
         def backtrack(i, path):
-            if i == len(digits):
+            if len(path) == len(digits):
                 res.append(path)
                 return
             for ch in mp[digits[i]]:
                 backtrack(i + 1, path + ch)
-        
-        backtrack(0, '')
 
+        backtrack(0, '')
         return res
