@@ -3,7 +3,6 @@ class Solution:
         def merge_sort(nums):
             if len(nums) <= 1:
                 return nums
-                
             mid = len(nums) // 2
             left = merge_sort(nums[: mid])
             right = merge_sort(nums [mid : ])
@@ -20,5 +19,4 @@ class Solution:
                     res.append(right[r])
                     r += 1
             return res + left[l:] + right[r:]
-
         return merge_sort(nums)
