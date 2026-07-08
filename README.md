@@ -68,6 +68,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0682-baseball-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/sangu0005/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1512-number-of-good-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sangu0005/leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -155,6 +156,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/sangu0005/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/sangu0005/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sangu0005/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
 |  |
@@ -196,6 +198,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0148-sort-list](https://github.com/sangu0005/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sangu0005/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -205,6 +208,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sangu0005/leetcode-solutions/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -231,6 +235,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/sangu0005/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -302,4 +307,16 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sangu0005/leetcode-solutions/tree/master/0100-same-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
