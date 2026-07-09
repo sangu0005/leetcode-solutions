@@ -3,9 +3,9 @@ class Solution:
         res = []
         
         for n in nums:
-            n = abs(n) - 1
+            n = abs(n)
             if nums[n - 1] < 0:
-                res.append(n + 1)
+                res.append(n)
             nums[n - 1] = -nums[n - 1]
 
         return res
