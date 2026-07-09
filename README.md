@@ -133,6 +133,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0189-rotate-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sangu0005/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/sangu0005/leetcode-solutions/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/sangu0005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/sangu0005/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
@@ -171,6 +172,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/sangu0005/leetcode-solutions/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/sangu0005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sangu0005/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/sangu0005/leetcode-solutions/tree/master/1528-shuffle-string) |
