@@ -66,6 +66,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0442-find-all-duplicates-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/sangu0005/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0495-teemo-attacking](https://github.com/sangu0005/leetcode-solutions/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/sangu0005/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -94,6 +95,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sangu0005/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -198,6 +200,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | ------- |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/sangu0005/leetcode-solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sangu0005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
@@ -272,6 +275,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | ------- |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/sangu0005/leetcode-solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
