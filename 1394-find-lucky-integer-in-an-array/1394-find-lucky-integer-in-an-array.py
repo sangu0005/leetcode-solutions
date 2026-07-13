@@ -4,9 +4,9 @@ class Solution:
         for n in arr:
             mp[n] = mp.get(n, 0) + 1
          
-        maxi = 0
+        maxi = -1
         for k, v in mp.items():
             if k == v:
-                if k > maxi:
-                    maxi = k
-        return maxi if maxi else -1
+                maxi = max(maxi, k)
+
+        return maxi
