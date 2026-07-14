@@ -176,6 +176,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sangu0005/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2785-sort-vowels-in-a-string](https://github.com/sangu0005/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sangu0005/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sangu0005/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sangu0005/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2785-sort-vowels-in-a-string](https://github.com/sangu0005/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3174-clear-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
