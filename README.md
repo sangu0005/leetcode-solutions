@@ -258,6 +258,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0137-single-number-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/sangu0005/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/sangu0005/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -293,6 +294,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0053-maximum-subarray](https://github.com/sangu0005/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/sangu0005/leetcode-solutions/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/sangu0005/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/sangu0005/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Sliding Window
 |  |
 | ------- |
