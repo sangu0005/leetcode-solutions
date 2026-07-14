@@ -49,6 +49,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0035-search-insert-position](https://github.com/sangu0005/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sangu0005/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sangu0005/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sangu0005/leetcode-solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -253,6 +254,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/sangu0005/leetcode-solutions/tree/master/0191-number-of-1-bits) |
