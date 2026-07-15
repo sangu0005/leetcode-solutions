@@ -150,6 +150,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0633-sum-of-square-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/sangu0005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/sangu0005/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/sangu0005/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0844-backspace-string-compare](https://github.com/sangu0005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sangu0005/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/sangu0005/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1768-merge-strings-alternately](https://github.com/sangu0005/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sangu0005/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sangu0005/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sangu0005/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
