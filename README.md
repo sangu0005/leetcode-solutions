@@ -61,6 +61,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sangu0005/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sangu0005/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/sangu0005/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -95,6 +96,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0169-majority-element](https://github.com/sangu0005/leetcode-solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -113,6 +115,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0172-factorial-trailing-zeroes](https://github.com/sangu0005/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/sangu0005/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1512-number-of-good-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -159,6 +162,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sangu0005/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/sangu0005/leetcode-solutions/tree/master/0441-arranging-coins) |
@@ -174,6 +178,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0169-majority-element](https://github.com/sangu0005/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/sangu0005/leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -264,6 +269,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0137-single-number-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/sangu0005/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sangu0005/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Heap (Priority Queue)
 |  |
