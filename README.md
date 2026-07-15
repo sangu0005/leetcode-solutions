@@ -97,6 +97,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/sangu0005/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -196,6 +197,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0139-word-break](https://github.com/sangu0005/leetcode-solutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0290-word-pattern](https://github.com/sangu0005/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/sangu0005/leetcode-solutions/tree/master/0443-string-compression) |
