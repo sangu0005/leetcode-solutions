@@ -198,6 +198,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0179-largest-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/sangu0005/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/sangu0005/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/sangu0005/leetcode-solutions/tree/master/0443-string-compression) |
@@ -221,6 +222,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sangu0005/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/sangu0005/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/sangu0005/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -296,6 +298,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/sangu0005/leetcode-solutions/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
