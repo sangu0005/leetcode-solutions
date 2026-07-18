@@ -114,6 +114,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/sangu0005/leetcode-solutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/sangu0005/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0258-add-digits) |
@@ -300,6 +301,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/sangu0005/leetcode-solutions/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/sangu0005/leetcode-solutions/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
