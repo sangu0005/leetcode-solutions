@@ -4,8 +4,8 @@ class Solution:
             if x == 0: return 0
             if n == 0: return 1
             
-            res = helper(x, n // 2)
-            res = res * res
+            half = helper(x, n // 2)
+            res = half * half
             return res if n % 2 == 0 else x * res
         
         res = helper(x, abs(n))
