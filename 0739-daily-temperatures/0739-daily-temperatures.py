@@ -6,8 +6,8 @@ class Solution:
 
         for i, temp in enumerate(temperatures):
             while stk and temperatures[stk[-1]] < temp:
-                prev = stk.pop()
-                res[prev] = i - prev
+                prev_day = stk.pop()
+                res[prev_day] = i - prev_day
             stk.append(i)
             
         return res
