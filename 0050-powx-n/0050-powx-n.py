@@ -1,22 +1,23 @@
 class Solution:
     def myPow(self, x: float, n: int) -> float:
-        if n == 0: return 1
-        if x == 0: return 0
-
-        if n < 0: return 1 / self.myPow(x, -n)
-        res = self.myPow(x, n // 2)
-        if n % 2 == 0:
-            return res * res
-        else:
-            return x * res * res
-        
-        # def helper(x, n):
-        #     if x == 0: return 0
-        #     if n == 0: return 1
+        def helper(x, n):
+            if x == 0: return 0
+            if n == 0: return 1
             
-        #     half = helper(x, n // 2)
-        #     res = half * half
-        #     return res if n % 2 == 0 else x * res
+            half = helper(x, n // 2)
+            res = half * half
+            return res if n % 2 == 0 else x * res
         
-        # res = helper(x, abs(n))
-        # return res if n >= 0 else 1 / res 
+        res = helper(x, abs(n))
+        return res if n >= 0 else 1 / res 
+
+        # if n == 0: return 1
+        # if x == 0: return 0
+
+        # if n < 0: return 1 / self.myPow(x, -n)
+        # res = self.myPow(x, n // 2)
+        # if n % 2 == 0:
+        #     return res * res
+        # else:
+        #     return x * res * res
+        
