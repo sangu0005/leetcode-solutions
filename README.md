@@ -48,6 +48,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sangu0005/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sangu0005/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sangu0005/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0136-single-number) |
@@ -226,6 +227,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -326,6 +328,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sangu0005/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sangu0005/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/sangu0005/leetcode-solutions/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/sangu0005/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
