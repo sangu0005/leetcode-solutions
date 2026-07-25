@@ -130,6 +130,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0633-sum-of-square-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/sangu0005/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sangu0005/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/sangu0005/leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sangu0005/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -203,6 +204,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [1331-rank-transform-of-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sangu0005/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2785-sort-vowels-in-a-string](https://github.com/sangu0005/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
