@@ -73,6 +73,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0495-teemo-attacking](https://github.com/sangu0005/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/sangu0005/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sangu0005/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -127,6 +128,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0258-add-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/sangu0005/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/sangu0005/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -197,6 +199,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0349-intersection-of-two-arrays](https://github.com/sangu0005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/sangu0005/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sangu0005/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sangu0005/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
