@@ -85,6 +85,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [1288-remove-covered-intervals](https://github.com/sangu0005/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sangu0005/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1748-sum-of-unique-elements](https://github.com/sangu0005/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -205,6 +206,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0973-k-closest-points-to-origin](https://github.com/sangu0005/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/sangu0005/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sangu0005/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2785-sort-vowels-in-a-string](https://github.com/sangu0005/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -309,6 +311,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0506-relative-ranks](https://github.com/sangu0005/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sangu0005/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
