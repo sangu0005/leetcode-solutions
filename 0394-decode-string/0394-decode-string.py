@@ -17,4 +17,3 @@ class Solution:
                 stk.append(int(k) * substr)
         
         return ''.join(stk)
-                
