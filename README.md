@@ -51,6 +51,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0045-jump-game-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sangu0005/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/sangu0005/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sangu0005/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -198,6 +199,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/sangu0005/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sangu0005/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sangu0005/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sangu0005/leetcode-solutions/tree/master/0169-majority-element) |
