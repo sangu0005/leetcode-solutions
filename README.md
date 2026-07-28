@@ -79,6 +79,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0739-daily-temperatures](https://github.com/sangu0005/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sangu0005/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/sangu0005/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sangu0005/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
@@ -173,6 +174,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0567-permutation-in-string](https://github.com/sangu0005/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/sangu0005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/sangu0005/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sangu0005/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/sangu0005/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
@@ -206,6 +208,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0442-find-all-duplicates-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/sangu0005/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/sangu0005/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sangu0005/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sangu0005/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -250,6 +253,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0179-largest-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sangu0005/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0881-boats-to-save-people](https://github.com/sangu0005/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
