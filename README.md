@@ -81,6 +81,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0739-daily-temperatures](https://github.com/sangu0005/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sangu0005/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/sangu0005/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sangu0005/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -136,6 +137,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0441-arranging-coins](https://github.com/sangu0005/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/sangu0005/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/sangu0005/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -364,6 +366,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0300-longest-increasing-subsequence](https://github.com/sangu0005/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/sangu0005/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sangu0005/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -439,4 +442,8 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sangu0005/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
