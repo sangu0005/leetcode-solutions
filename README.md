@@ -53,6 +53,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0055-jump-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sangu0005/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sangu0005/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sangu0005/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/sangu0005/leetcode-solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -263,6 +264,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sangu0005/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/sangu0005/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/sangu0005/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -351,6 +353,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sangu0005/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/sangu0005/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -446,4 +449,8 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0877-stone-game) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sangu0005/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
