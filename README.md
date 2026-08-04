@@ -456,4 +456,12 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sangu0005/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
