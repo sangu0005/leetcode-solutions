@@ -88,6 +88,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/sangu0005/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sangu0005/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1288-remove-covered-intervals](https://github.com/sangu0005/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -121,6 +122,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0442-find-all-duplicates-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sangu0005/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sangu0005/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sangu0005/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -317,6 +319,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sangu0005/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sangu0005/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
