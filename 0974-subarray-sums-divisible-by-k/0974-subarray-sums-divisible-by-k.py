@@ -2,7 +2,6 @@ class Solution:
     def subarraysDivByK(self, nums: List[int], k: int) -> int:
         prefix_sum = 0
         res = 0
-
         prefix_cnt = defaultdict(int)
         prefix_cnt[0] = 1
 
