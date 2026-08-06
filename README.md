@@ -472,4 +472,8 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0877-stone-game) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sangu0005/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
