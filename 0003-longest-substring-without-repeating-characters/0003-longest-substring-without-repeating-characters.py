@@ -11,13 +11,4 @@ class Solution:
                 
             seen.add(s[r])
             res = max(res, r-l+1)
-
         return res
-
-        # res = 0
-        # for i in range(len(s)):
-        #     for j in range(i + 1 , len(s) + 1):
-        #         sub = s[i : j]
-        #         if len(sub) == len(set(sub)):
-        #             res = max(res, len(sub))
-        # return res
