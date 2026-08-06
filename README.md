@@ -108,6 +108,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sangu0005/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/sangu0005/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/sangu0005/leetcode-solutions/tree/master/0139-word-break) |
@@ -234,6 +235,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sangu0005/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sangu0005/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/sangu0005/leetcode-solutions/tree/master/0076-minimum-window-substring) |
@@ -381,6 +383,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sangu0005/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sangu0005/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/sangu0005/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/sangu0005/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
