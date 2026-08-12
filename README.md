@@ -139,6 +139,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | ------- |
 | [0009-palindrome-number](https://github.com/sangu0005/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sangu0005/leetcode-solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/sangu0005/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/sangu0005/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sangu0005/leetcode-solutions/tree/master/0258-add-digits) |
@@ -382,6 +383,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0045-jump-game-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sangu0005/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/sangu0005/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sangu0005/leetcode-solutions/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/sangu0005/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/sangu0005/leetcode-solutions/tree/master/0338-counting-bits) |
@@ -414,6 +416,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sangu0005/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sangu0005/leetcode-solutions/tree/master/0139-word-break) |
 ## Backtracking
 |  |
