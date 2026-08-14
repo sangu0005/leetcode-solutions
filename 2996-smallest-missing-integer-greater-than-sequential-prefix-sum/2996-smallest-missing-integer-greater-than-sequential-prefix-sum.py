@@ -7,8 +7,8 @@ class Solution:
                 total += nums[i]
             else:
                 break
+
         seen = set(nums)
-        
         while total in seen:
             total += 1
 
