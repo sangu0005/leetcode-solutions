@@ -78,6 +78,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0496-next-greater-element-i](https://github.com/sangu0005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/sangu0005/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/sangu0005/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/sangu0005/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sangu0005/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -196,6 +197,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0443-string-compression](https://github.com/sangu0005/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sangu0005/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/sangu0005/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/sangu0005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/sangu0005/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sangu0005/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -216,6 +218,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0441-arranging-coins](https://github.com/sangu0005/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/sangu0005/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/sangu0005/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sangu0005/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Sorting
@@ -233,6 +236,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0442-find-all-duplicates-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/sangu0005/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sangu0005/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/sangu0005/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/sangu0005/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sangu0005/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -356,6 +360,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/sangu0005/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/sangu0005/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sangu0005/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sangu0005/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -409,6 +414,7 @@ Solutions are uploaded automatically after successful submissions and are organi
 | [0219-contains-duplicate-ii](https://github.com/sangu0005/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sangu0005/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sangu0005/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/sangu0005/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sangu0005/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sangu0005/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sangu0005/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
